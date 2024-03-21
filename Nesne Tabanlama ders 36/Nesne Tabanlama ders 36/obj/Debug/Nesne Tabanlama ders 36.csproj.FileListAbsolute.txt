@@ -1,0 +1,44 @@
+c:\users\öğrenci\documents\visual studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.exe.config
+c:\users\öğrenci\documents\visual studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.exe
+c:\users\öğrenci\documents\visual studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.pdb
+c:\users\öğrenci\documents\visual studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.csprojResolveAssemblyReference.cache
+c:\users\öğrenci\documents\visual studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form1.resources
+c:\users\öğrenci\documents\visual studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Properties.Resources.resources
+c:\users\öğrenci\documents\visual studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.csproj.GenerateResource.Cache
+c:\users\öğrenci\documents\visual studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.exe
+c:\users\öğrenci\documents\visual studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.pdb
+C:\Users\Öğrenci\Documents\Visual Studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form2.resources
+C:\Users\Öğrenci\Documents\Visual Studio 2012\Projects\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form3.resources
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.exe
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.pdb
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form2.resources
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.exe
+C:\Users\ÖĞRENCİ\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.pdb
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.exe.config
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.exe
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.pdb
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.exe
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.pdb
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form1.resources
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form2.resources
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form3.resources
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Properties.Resources.resources
+C:\Users\Öğrenci\Desktop\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.exe.config
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.exe
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.pdb
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.exe
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\bin\Debug\Nesne Tabanlama ders 36.pdb
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form1.resources
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form2.resources
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form3.resources
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Form4.resources
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne_Tabanlama_ders_36.Properties.Resources.resources
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül visual studio 2012\Nesne Tabanlama ders 36\Nesne Tabanlama ders 36\obj\Debug\Nesne Tabanlama ders 36.csproj.GenerateResource.Cache
